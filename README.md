@@ -170,11 +170,11 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 ## 🌐 **Reach out to me:** ️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5")](https://www.linkedin.com/in/sanjaydevtech)
-[![YouTube](https://img.shields.io/badge/YouTube-SanjayDeveloper20-informationl?style=for-the-badge&labelColor=white&logo=youtube&logoColor=red&&color=#1da1f2")](https://www.youtube.com/c/SanjayDeveloper20)
-[![Twitter](https://img.shields.io/badge/Twitter-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/SanjayDevTech)
-[![Dev.to](https://img.shields.io/badge/Dev.to-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=dev.to&logoColor=white&color=#1da1f2")](https://dev.to/sanjaydevtech)
-[![Medium](https://img.shields.io/badge/Medium-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=medium&logoColor=#1da1f2&color=#1da1f2")](https://sanjaydevtech.medium.com)
+
+
+[![Twitter](https://img.shields.io/badge/Twitter-Alimhossain0-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/AlimHossain0)
+
+
 
 
 
