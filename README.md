@@ -9,7 +9,7 @@
 - 🤓 Currently pursuing BE CSE;
 - 🧑‍💻 Android && Web developer;
 - 👽 Love to develop in **Android** || **React** || **ML**;
--
+
 
 
 <br/>
