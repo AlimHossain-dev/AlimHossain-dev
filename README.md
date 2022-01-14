@@ -9,8 +9,8 @@
 - 🤓 Currently pursuing BE CSE;
 - 🧑‍💻 Android && Web developer;
 - 👽 Love to develop in **Android** || **React** || **ML**;
-- 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20);
-- 🤝 Maintaining few open source libraries;
+-
+
 
 <br/>
 
