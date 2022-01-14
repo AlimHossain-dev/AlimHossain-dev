@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Alim Hossain** 🎯️🚀️</p>
+# <p align="center">️ **Hi there!! <img src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Alim Hossain** 🎯️🚀️</p>
 
 <br/>
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
