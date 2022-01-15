@@ -37,7 +37,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
