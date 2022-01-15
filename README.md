@@ -25,21 +25,7 @@
 ![](https://komarev.com/ghpvc/?username=AlimHossain-dev&style=flat-square)
 ---
 
-## 👨‍🎓️️ **Keep Learning:**
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain-dev&layout=compact&theme=vue-dark"/>
-
-   <br/>
-
-   <br/>
-
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimHossain-dev=vue-dark&hide_border=true"/>
-
-<br/>
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 **This Week I Spent My Time On** 
