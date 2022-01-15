@@ -7,6 +7,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
 
+
 - 🧑‍💻 Android && Web developer;
 - 👽 Love to develop in **Android** || **React** || **ML**;
 
