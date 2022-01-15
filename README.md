@@ -38,7 +38,7 @@
 <br/>
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/
 
 📊 **This Week I Spent My Time On** 
 
