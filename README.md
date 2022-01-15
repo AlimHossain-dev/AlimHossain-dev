@@ -24,12 +24,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AlimHossain-dev&style=flat-square)
 
-<br />
 ---
 
 ## 👨‍🎓️️ **Keep Learning:**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain0 - dev&layout=compact&theme=vue-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain-dev=compact&theme=vue-dark"/>
 
 <br/>
 
