@@ -95,6 +95,4 @@ No Activity Tracked This Week
  
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/AlimHossain-dev)  [<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/AlimHossain0)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/mwlite/in/alimhossain/)  
-
+[<img src='https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=Black' height='40'>](https://www.linkedin.com/mwlite/in/alimhossain)  
