@@ -57,14 +57,44 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 
---`
+## 🛠️ **Languages & Tools:**
+
+<p align="center">
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="30" />
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40"  />
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40"  />
+
+<br />
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" />
+
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40"  />
+
+   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="Flutter" width="40"  />
+
+</p>
+
+<br/>
+
 ---
 
 ## 🌐 **Reach out to me:** ️
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5")](https://www.linkedin.com/in/sanjaydevtech)
 
+[![YouTube](https://img.shields.io/badge/YouTube-SanjayDeveloper20-informationl?style=for-the-badge&labelColor=white&logo=youtube&logoColor=red&&color=#1da1f2")](https://www.youtube.com/c/SanjayDeveloper20)
 
-[![Twitter](https://img.shields.io/badge/Twitter-Alimhossain0-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/AlimHossain0)
+[![Twitter](https://img.shields.io/badge/Twitter-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/SanjayDevTech)
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=dev.to&logoColor=white&color=#1da1f2")](https://dev.to/sanjaydevtech)
+
+[![Medium](https://img.shields.io/badge/Medium-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=medium&logoColor=#1da1f2&color=#1da1f2")](https://sanjaydevtech.medium.com)
+
 
 
 
