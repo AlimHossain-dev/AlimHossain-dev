@@ -11,8 +11,6 @@
 - 👽 Love to develop in **Android** || **React** || **ML**;
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 ---
 
@@ -23,6 +21,10 @@
 ![](https://komarev.com/ghpvc/?username=AlimHossain-dev&style=flat-square)
 
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 
 ---
 
@@ -35,7 +37,7 @@
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This Week I Spent My Time On** 
 
