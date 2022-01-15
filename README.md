@@ -34,8 +34,8 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimHossain-dev&theme=vue-dark&hide_border=true"/>
 
 <br/>
-**Wakatime Week Stats**
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This Week I Spent My Time On** 
 
