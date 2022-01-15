@@ -25,23 +25,21 @@
 ![](https://komarev.com/ghpvc/?username=AlimHossain-dev&style=flat-square)
 
 <br />
-
 ---
 
 ## 👨‍🎓️️ **Keep Learning:**
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain-dev&layout=compact&theme=vue-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain0 - dev&layout=compact&theme=vue-dark"/>
 
 <br/>
 
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimHossain-dev=vue-dark&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimHossain-dev&theme=vue-dark&hide_border=true"/>
 
 <br/>
 
 ---
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -95,5 +93,5 @@ No Activity Tracked This Week
 
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/AlimHossain0)
+[![Twitter](https://img.shields.io/badge/Twitter-Alimhossain0-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/AlimHossain0)
 
