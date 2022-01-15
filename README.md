@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
-- 🤓 Currently pursuing BE CSE;
+
 - 🧑‍💻 Android && Web developer;
 - 👽 Love to develop in **Android** || **React** || **ML**;
 
