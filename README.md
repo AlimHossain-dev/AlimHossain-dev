@@ -38,7 +38,7 @@
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@AlimHossain)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This Week I Spent My Time On** 
 
