@@ -11,7 +11,7 @@
 - 👽 Love to develop in **Android** || **React** || **ML**;
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimHossain-dev)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ---
