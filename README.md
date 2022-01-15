@@ -44,25 +44,10 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlimHossain)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📊 **This Week I Spent My Time On** 
+
 
 ```text
 
-💬 Programming Languages: 
-
-No Activity Tracked This Week
-
-🔥 Editors: 
-
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-
-No Activity Tracked This Week
-
-💻 Operating System: 
-
-No Activity Tracked This Week
 
 ```
 
