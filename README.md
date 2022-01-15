@@ -31,6 +31,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlimHossain-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<ber />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimHossain-dev=vue-dark&hide_border=true"/>
+
+<br/>
+
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
