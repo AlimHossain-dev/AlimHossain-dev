@@ -135,37 +135,37 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 ## 🏗️ **Projects:**
 
-- [Node.js Simple REST API](https://github.com/SanjayDevTech/nodejs-simple-rest-api)
-- [Android Multipage Sample](https://github.com/SanjayDevTech/android-multipage-sample)
-- [Fake json api server](https://github.com/SanjayDevTech/json-placeholder-server)
-- [Instagram post downloader](https://github.com/SanjayDevTech/instautils)
-- [HTML live editor](https://github.com/SanjayDevTech/HTML-editor)
-- [Youtube Video and Channel details scrapper](https://github.com/SanjayDevTech/ytutils)
-- [Simple Screen Recorder](https://github.com/SanjayDevTech/Screen-Recorder)
-- [Firebase chatting application](https://github.com/SanjayDevTech/fire-chat)
-- [Simple logging library](https://github.com/SanjayDevTech/simple-log)
-- [Udacity Android Developer - Capstone](https://github.com/SanjayDevTech/Capstone-Project)
-- [Tik Tac Toe Tkinter Python](https://github.com/SanjayDevTech/Tic-Tac-Toe-Tkinter)
+- [Node.js Simple REST API](https://github.com/AlimHossain-dev/nodejs-simple-rest-api)
+- [Android Multipage Sample](https://github.com/AlimHossain-dev/android-multipage-sample)
+- [Fake json api server](https://github.com/AlimHossain-dev/json-placeholder-server)
+- [Instagram post downloader](https://github.com/AlimHossain-dev/instautils)
+- [HTML live editor](https://github.com/AlimHossain-dev/HTML-editor)
 
-<br/>
 
----
+- 
 
-## 🛠️ **Languages & Tools:**
 
-<p align="center">
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="30" />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40"  />
-<br />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40"  />
-   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="Flutter" width="40"  />
 
-</p>
-<br/>
 
+150 LP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔒 
 ---
 
 ## 🌐 **Reach out to me:** ️
