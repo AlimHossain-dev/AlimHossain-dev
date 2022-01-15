@@ -108,64 +108,8 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 ---
 
-## 🚩 **Achievements:**
-
-- GDSC Lead at [GDSC SREC](https://github.com/gdscsrec)
-- Contributed in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)
-- Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
-- Joined as a Mentor in [Mentors Without Borders](https://mentorswithoutborders.net)
-- Published few blog posts in [Medium](https://sanjaydevtech.medium.com)
-
-<br/>
-
----
-
-## 💙 **Contributions:**
-
-- [Android-Image-Cropper - Refactor BitmapUtils.java to Kotlin](https://github.com/CanHub/Android-Image-Cropper/pull/98)
-- [Android-Image-Cropper - Migrated Deprecated AsyncTask to Kotlin Coroutines](https://github.com/CanHub/Android-Image-Cropper/pull/25)
-- [CSwala-android - Implement Community feature](https://github.com/CSwala/CSwala-android/pull/149)
-- [Upcharika - Timer Enhancement](https://github.com/smaranjitghose/Upcharika/pull/37)
-- [First contribution](https://github.com/firstcontributions/first-contributions/pull/30213)
-- [Google IT automation Python](https://github.com/google/it-cert-automation-practice/pull/1372)
-
-<br/>
-
----
-
-## 🏗️ **Projects:**
-
-- [Node.js Simple REST API](https://github.com/AlimHossain-dev/nodejs-simple-rest-api)
-- [Android Multipage Sample](https://github.com/AlimHossain-dev/android-multipage-sample)
-- [Fake json api server](https://github.com/AlimHossain-dev/json-placeholder-server)
-- [Instagram post downloader](https://github.com/AlimHossain-dev/instautils)
-- [HTML live editor](https://github.com/AlimHossain-dev/HTML-editor)
 
 
-- 
-
-
-
-
-150 LP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🔒 
 ---
 
 ## 🌐 **Reach out to me:** ️
